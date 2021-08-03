@@ -1,1 +1,6 @@
 Documento para exemplo
+
+1) Este documento é privado;
+2) Outra alteração;
+3) não exclua
+4) Este documento pertence a min
